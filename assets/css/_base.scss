@@ -1,0 +1,40 @@
+@import "variables";
+
+html {
+  box-sizing: border-box;
+  font-family: $font;
+  color: $text-color;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  &,
+  &:before,
+  &:after {
+    box-sizing: inherit;
+  }
+}
+
+ol,
+ul {
+  list-style: none;
+}
+
+body {
+  overflow: hidden;
+  background-color: $bg-color;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  color: $accent-color;
+  font-weight: bold;
+
+  &:hover {
+    font-style: italic;
+  }
+}

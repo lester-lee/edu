@@ -1,0 +1,15 @@
+@import "variables";
+
+main {
+  max-width: 680px;
+  margin: 3rem auto;
+}
+
+ul, ol {
+  padding-left: 1rem;
+  list-style-type: square;
+}
+
+h1, h2, h3, li:last-child, p {
+  margin-bottom: .5rem;
+}
