@@ -18,10 +18,10 @@ Links point to the most recently updated website for the respective course. Mate
 
 ### Electives
 
-- [Art of Data](https://edu.lester-lee.com/artofdata/)
-- [Software Engineering](https://edu.lester-lee.com/software-engineering/)
+- [Art of Data](https://lee-edu.github.io/artofdata/)
+- [Software Engineering](https://lee-edu.github.io/software-engineering/)
 - [CS Seminar]({{site.baseurl}}/pages/seminar/)
-- [Theoretical CS](https://edu.lester-lee.com/theoreticalcs/)
+- [Theoretical CS](https://lee-edu.github.io/theoreticalcs/)
 
 ## Materials
 
