@@ -27,4 +27,4 @@ Links point to the most recently updated website for the respective course. Mate
 
 My most up-to-date materials can be found on [Github](https://github.com/lee-edu/materials).
 
-More worksheets can be found [on Google Drive](https://drive.google.com/drive/folders/1QAb6xTlR76DUH-0-w7JpNRaI-j9C3kqE?usp=sharing).
+More worksheets can be found on [Google Drive](https://drive.google.com/drive/folders/1QAb6xTlR76DUH-0-w7JpNRaI-j9C3kqE?usp=sharing).
